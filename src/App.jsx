@@ -36,7 +36,7 @@ function App() {
       <h5 className="font-bold mt-5 tablet:mt-11">No Definitions Found</h5>
       <p className="mt-3 tablet:mt-6">
         Sorry pal, we couldn't find definitions for the word you were looking for. You can try the search again at later
-        time or head to the web instead.
+        time or head to the web instead. Or look up at the vocabulary.
       </p>
     </main>
   )
